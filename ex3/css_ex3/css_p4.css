@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    
+}
+p{
+    color: blanchedalmond;
+    text-decoration: none;
+    text-transform: capitalize; 
+}
+form{
+    border: 2px solid black;
+    margin: auto;
+    padding: auto;
+    display: block;
+}
+label{
+    color: black;
+}

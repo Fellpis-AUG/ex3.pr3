@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+    
+}
+p{
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 40px;
+}
+ul{
+    display: inline;
+    margin-right: 10px;
+    padding: 10px;
+}
+table{
+    display: block;
+    margin: 0% auto;
+}
